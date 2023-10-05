@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about everything!
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on all things data
-- 📫 How to reach me saraybjatti@yahoo.co.uk
+- 📫 How to reach me saraybhatti@yahoo.co.uk
 
 <!---
 SaraBhatti/SaraBhatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaraBhatti
 - 👀 I’m interested in learning more about everything!
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently emersed into the world of data science
 - 💞️ I’m looking to collaborate on all things data
 - 📫 How to reach me saraybhatti@yahoo.co.uk
 
